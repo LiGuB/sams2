@@ -3,7 +3,9 @@ sams2 squid 5.5 centos 9
 
 
 make -f Makefile.cvs
+
 ./configure
+
 вивід:
 Use MySQL API: yes
 Use PostgreSQL API: no
