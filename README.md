@@ -7,12 +7,19 @@ make -f Makefile.cvs
 ./configure
 
 вивід:
+
 Use MySQL API: yes
+
 Use PostgreSQL API: no
+
 Use unixODBC API: no
+
 Use LDAP API: yes
+
 Using pcre: pcre
+
 Use dynamic plugin: yes
+
 
 патч для файлу libtool
 команда
